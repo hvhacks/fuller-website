@@ -1,0 +1,16 @@
+/* Add styles here */
+.toplo {
+    background-color: blueviolet;
+}
+h1 {
+    color:rgb(221, 29, 29);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+}
+body {
+    background-color:rgb(0, 248, 174);
+}
+ol {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    
+}
